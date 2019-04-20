@@ -40,5 +40,5 @@ Use the login details that you entered in the installation process.
 
 ## Customize the look
 
-## Translate HelpDeskZ to your language
+## Translate Yarshud to your language
 
